@@ -1,0 +1,1 @@
+start javaw -jar "%~dp0robot.jar" %1 "%~dp0result\%1"

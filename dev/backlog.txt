@@ -1,0 +1,22 @@
+hamagong robot
+1、解 hmg 需要一个 xx guard，功能主要是提供疗精丹、内息丸和毒 hulu
+2、主 robot 增加支持，在准备升道时，解 hama
+
+lbwb 条件
+
+
+  a=random(me->query("kar"));
+  b=random(me->query("int"));
+  c=random(me->query_con(1));
+  d=random(me->query_int(1));
+  if((a+b) > 50  && (c+d) > 75  && me->query(QUESTDIR6+"yuxiang")&& me->query("kar")<31)
+  {
+	   tell_object(me,"你翻到最后，不由 
+
+
+1.只能挂指定的 id，其它 id 上线就 join 某个 irc然后不停的发送等待命令
+2.接受控制，任何命令
+3.把  9y , hama , reg 相关的命令删除
+4.上线 id 一律进 irc，并接受 irc 控制
+5.irc 中发送 help 命令，帮忙杀挡路 npc, killer, give gold, bo huacong 等
+

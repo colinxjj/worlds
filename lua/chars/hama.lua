@@ -1,0 +1,12 @@
+Char {id = "ixicgsji", site = "sh", password = "I5555"}
+Char {id = "itklytai", site = "sh", password = "I5555"}
+Char {id = "ipehzzvi", site = "sh", password = "I5555"}
+Char {id = "ibklfvui", site = "sh", password = "I5555"}
+Char {id = "itdosxqi", site = "sh", password = "I5555"}
+Char {id = "inufymei", site = "sh", password = "I5555"}
+Char {id = "iyqusfri", site = "sh", password = "I5555"}
+Char {id = "ixwbgmki", site = "yt", password = "I5555"}
+Char {id = "ilbscrpi", site = "yt", password = "I5555"}
+Char {id = "itzfsqci", site = "yt", password = "I5555"}
+Char {id = "ibyupaji", site = "yt", password = "I5555"}
+Char {id = "idajskxi", site = "yt", password = "I5555"}

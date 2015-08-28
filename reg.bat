@@ -1,0 +1,1 @@
+javaw -jar "%~dp0reg.jar" "%~dp0character"

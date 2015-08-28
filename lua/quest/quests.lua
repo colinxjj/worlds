@@ -1,0 +1,6 @@
+require("quest/upgrade")
+require("quest/xsfh")
+require("quest/lcj")
+require("quest/jyquest")
+require("quest/worker")
+require("quest/hama")

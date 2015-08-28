@@ -1,0 +1,1 @@
+function getFirstWords()	require("firstwords")	return FirstWordsendfunction getFirstWord(word)	if not word then		return ""	end	local fws = {}	for w in string.gmatch(word,"..") do		table.insert(fws,getFirstWords()[w])	end	return table.concat(fws)end
